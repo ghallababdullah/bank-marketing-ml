@@ -54,7 +54,7 @@ ROC-AUC на кросс-валидации: **0.789 ± 0.006**. Среди 10% �
 **Локально:**
 
 ```bash
-git clone https://github.com/<ваш-username>/bank-marketing-ml.git
+git clone https://github.com/ghallababdullah/bank-marketing-ml.git
 cd bank-marketing-ml
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
